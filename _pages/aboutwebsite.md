@@ -16,7 +16,7 @@ The original contents appearing in this website can be used as indicated by the 
 
 #### The Allan lab
 
-Most of the structural parts are based on [the Allan lab's site](https://github.com/mpa139/allanlab), which is released under the MIT license.
+Most of the structural parts are based on [the Allan lab's site](https://github.com/mpa139/allanlab) and [the Hyeshiks lab's site](https://qbio.io/), which is released under the MIT license.
 
 <blockquote>
 <p>

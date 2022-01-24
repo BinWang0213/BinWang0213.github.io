@@ -1,0 +1,79 @@
+I"�<h2 id="about-this-website">About this website</h2>
+
+<p>This website is powered by <a href="https://jekyllrb.com">Jekyll</a> and uses some <a href="http://www.getbootstrap.com">Bootstrap</a>. Although we have tinkered a bit with the contents and the design, the site is largely based on <a href="https://www.allanlab.org/aboutwebsite.html">the Allan lab’s codebase</a>. Please refer to the following license terms for reusing the components used in this site.</p>
+
+<h4 id="our-own-contents">Our own contents</h4>
+
+<p>The original contents appearing in this website can be used as indicated by the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a>.</p>
+
+<h4 id="the-allan-lab">The Allan lab</h4>
+
+<p>Most of the structural parts are based on <a href="https://github.com/mpa139/allanlab">the Allan lab’s site</a> and <a href="https://qbio.io/">the Hyeshiks lab’s site</a>, which is released under the MIT license.</p>
+
+<blockquote>
+  <p>
+Copyright © Allan lab
+</p>
+
+  <p>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+</p>
+
+  <p>
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+</p>
+
+  <p>
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</p>
+</blockquote>
+
+<h4 id="hugo-themes">Hugo Themes</h4>
+
+<p>Many ideas and implementations of aesthetic parts were borrowed from the <a href="https://themes.gohugo.io/">Hugo Themes</a>, which was released under the <a href="https://github.com/gohugoio/hugoThemesSite/blob/master/LICENSE">Apache License 2.0</a>.</p>
+
+<h4 id="font-awesome">Font Awesome</h4>
+
+<p>Font Awesome was released under <a href="https://fontawesome.com/license/free">the SIL Open Font License 1.1 and the MIT license</a>.</p>
+
+<h4 id="bootstrap">Bootstrap</h4>
+
+<blockquote>
+  <p>
+Copyright (c) 2011-2019 Twitter, Inc.<br />
+Copyright (c) 2011-2019 The Bootstrap Authors
+</p>
+
+  <p>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+</p>
+
+  <p>
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+</p>
+
+  <p>
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+</p>
+</blockquote>
+
+<h4 id="inter-and-roboto">Inter and Roboto</h4>
+
+<p>This site includes two sans-serif fonts, <a href="https://github.com/rsms/inter">Inter</a>
+and <a href="https://github.com/google/roboto/">Roboto</a>. Inter was released under
+<a href="https://choosealicense.com/licenses/ofl-1.1/">SIL Open Font License 1.1</a>
+and Roboto can be redistributed as indicated by <a href="https://github.com/google/roboto/blob/master/LICENSE">Apache License 2.0</a>.</p>
+
+:ET

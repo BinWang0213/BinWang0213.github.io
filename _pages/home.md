@@ -6,14 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-We are a vibrant research lab affiliated with the
-[Interdisciplinary Program in Bioinformatics](http://ipbi.snu.ac.kr)
-and
-[School of Biological Sciences](http://biosci.snu.ac.kr)
-at [Seoul National University](http://www.snu.ac.kr), Korea.
-We aim to understand how the gene expression is regulated
-post-transcriptionally by the interactions between biological molecules
-in a quantitative manner.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->

@@ -14,6 +14,7 @@ Example [Jekyll] website using GitLab Pages.  View it live at https://pages.gitl
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Getting Started](#getting-started)
+- [Examples](#examples)
   - [Start by forking this repository](#start-by-forking-this-repository)
   - [Start from a local Jekyll project](#start-from-a-local-jekyll-project)
 - [GitLab CI](#gitlab-ci)
@@ -30,6 +31,11 @@ Example [Jekyll] website using GitLab Pages.  View it live at https://pages.gitl
 You can get started with GitLab Pages using Jekyll easily by either forking this repository or by uploading a new/existing Jekyll project.
 
 Remember you need to wait for your site to build before you will be able to see your changes.  You can track the build on the **Pipelines** tab.
+
+## Examples
+
+* https://github.com/sebspain/sebspain.github.io
+* https://github.com/sbryngelson/academic-website-template
 
 ### Start by forking this repository
 

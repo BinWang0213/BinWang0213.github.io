@@ -1,0 +1,300 @@
+- authors: "Wang, Bin and Wald, Ingo and Morrical, Nate and Usher, Will and Mu, Lin and Thompson, Karsten and Hughes, Richard" 
+  title: "An GPU-accelerated particle tracking method for Eulerian--Lagrangian simulations using hardware ray tracing cores" 
+  journal: "Computer Physics Communications" 
+  pubdate:
+    year: 2022
+  vip: "271"
+  doi: 10.1016/j.cpc.2021.108221
+  link:
+    url: http://doi.org/10.1016/j.cpc.2021.108221
+    display: Computer Physics Communications, 271
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Yang, Bing and Wang, Haizhu and Wang, Bin and Shen, Zhonghou and Zheng, Yong and Jia, Zhaoyang and Yan, Wanjuan" 
+  title: "Digital quantification of fracture in full-scale rock using micro-CT images: A fracturing experiment with N2 and CO2" 
+  journal: "Journal of Petroleum Science and Engineering" 
+  pubdate:
+    year: 2021
+  vip: "196"
+  doi: 10.1016/j.petrol.2020.107682
+  link:
+    url: http://doi.org/10.1016/j.petrol.2020.107682
+    display: Journal of Petroleum Science and Engineering, 196
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Demidov, Denis and Mu, Lin and Wang, Bin" 
+  title: "Accelerating linear solvers for Stokes problems with C++ metaprogramming" 
+  journal: "Journal of Computational Science" 
+  pubdate:
+    year: 2021
+  vip: "49"
+  doi: 10.1016/j.jocs.2020.101285
+  link:
+    url: http://doi.org/10.1016/j.jocs.2020.101285
+    display: Journal of Computational Science, 49
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Mu, Lin" 
+  title: "Viscosity robust weak Galerkin finite element methods for Stokes problems" 
+  journal: "Electronic Research Archive" 
+  pubdate:
+    year: 2021
+  vip: "29"
+  doi: 10.3934/era.2020096
+  link:
+    url: http://doi.org/10.3934/era.2020096
+    display: Electronic Research Archive, 29
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Feng, Yin and Blears, John and Thompson, Karsten and Hughes, Richard" 
+  title: "Streamline-based simulation of nanoparticle transport in field-scale heterogeneous subsurface systems" 
+  journal: "Advances in Water Resources" 
+  pubdate:
+    year: 2021
+  vip: "148"
+  doi: 10.1016/j.advwatres.2020.103842
+  link:
+    url: http://doi.org/10.1016/j.advwatres.2020.103842
+    display: Advances in Water Resources, 148
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Fidelibus, Corrado" 
+  title: "An Open-Source Code for Fluid Flow Simulations in Unconventional Fractured Reservoirs" 
+  journal: "Geosciences" 
+  pubdate:
+    year: 2021
+  vip: "11"
+  doi: 10.3390/geosciences11020106
+  link:
+    url: http://doi.org/10.3390/geosciences11020106
+    display: Geosciences, 11
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Yang, Bing and Wang, Haizhu and Shen, Zhonghou and Olorode, Olufemi and Wang, Bin and Zheng, Yong and Yan, Wanjuan and Jia, Zhaoyang" 
+  title: "Full-Sample X-ray Microcomputed Tomography Analysis of Supercritical CO2 Fracturing in Tight Sandstone: Effect of Stress on Fracture Dynamics" 
+  journal: "Energy & Fuels" 
+  pubdate:
+    year: 2021
+  vip: "35"
+  doi: 10.1021/acs.energyfuels.0c03554
+  link:
+    url: http://doi.org/10.1021/acs.energyfuels.0c03554
+    display: Energy & Fuels, 35
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Lie, Knut-Andreas and Moyner, Olav" 
+  title: "Advanced modelling with the MATLAB reservoir simulation toolbox" 
+  journal: "Cambridge University Press" 
+  pubdate:
+    year: 2021
+  vip: "10"
+  doi: 10.1017/9781009019781
+  link:
+    url: http://doi.org/10.1017/9781009019781
+    display: Cambridge University Press, 10
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Feng, Yin and Shi, Erxiu and Luo, Yi and Wang, Bin and Zhang, Liehui and Zhao, Yulong" 
+  title: "Implementation of streamline simulation based on finite element method in FEniCS" 
+  journal: "Computational Geosciences" 
+  pubdate:
+    year: 2020
+  vip: "24"
+  doi: 10.1007/s10596-019-09923-7
+  link:
+    url: http://doi.org/10.1007/s10596-019-09923-7
+    display: Computational Geosciences, 24
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Ning, Xuewei and Feng, Yin and Wang, Bin" 
+  title: "Numerical simulation of channel fracturing technology in developing shale gas reservoirs" 
+  journal: "Journal of Natural Gas Science and Engineering" 
+  pubdate:
+    year: 2020
+  vip: "83"
+  doi: 10.1016/j.jngse.2020.103515
+  link:
+    url: http://doi.org/10.1016/j.jngse.2020.103515
+    display: Journal of Natural Gas Science and Engineering, 83
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Olorode, Olufemi and Wang, Bin and Rashid, Harun Ur" 
+  title: "Three-Dimensional Projection-Based Embedded Discrete-Fracture Model for Compositional Simulation of Fractured Reservoirs" 
+  journal: "SPE Journal" 
+  pubdate:
+    year: 2020
+  vip: "25"
+  doi: 10.2118/201243-PA
+  link:
+    url: http://doi.org/10.2118/201243-PA
+    display: SPE Journal, 25
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin" 
+  title: "MRST-Shale: An Open-Source Framework for Generic Numerical Modeling of Unconventional Shale and Tight Gas Reservoirs" 
+  journal: "Preprints" 
+  pubdate:
+    year: 2020
+  vip: "10"
+  doi: NA
+  link:
+    url: http://doi.org/NA
+    display: Preprints, 10
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Feng, Yin and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado" 
+  title: "Iterative coupling algorithms for large multidomain problems with the boundary element method" 
+  journal: "International Journal for Numerical Methods in Engineering" 
+  pubdate:
+    year: 2019
+  vip: "117"
+  doi: 10.1002/nme.5943
+  link:
+    url: http://doi.org/10.1002/nme.5943
+    display: International Journal for Numerical Methods in Engineering, 117
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Feng, Yin and Zhou, Xu and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado" 
+  title: "Discontinuous Boundary Elements for Fluid Flow Problems in Discrete Fracture Networks" 
+  journal: "Preprints" 
+  pubdate:
+    year: 2019
+  vip: "10"
+  doi: NA
+  link:
+    url: http://doi.org/NA
+    display: Preprints, 10
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Feng, Yin and Du, Juan and Wang, Yihui and Wang, Sijie and Yang, Ruiyue" 
+  title: "An embedded grid-free approach for near-wellbore streamline simulation" 
+  journal: "SPE Journal" 
+  pubdate:
+    year: 2018
+  vip: "23"
+  doi: 10.2118/182614-pa
+  link:
+    url: http://doi.org/10.2118/182614-pa
+    display: SPE Journal, 23
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Li, Gensheng and Huang, Zhongwei and Ma, Tianqi and Zheng, Dongbo and Li, Kui" 
+  title: "Lab testing and finite element method simulation of hole deflector performance for radial jet drilling" 
+  journal: "Journal of Energy Resources Technology" 
+  pubdate:
+    year: 2017
+  vip: "139"
+  doi: 10.1115/1.4035552
+  link:
+    url: http://doi.org/10.1115/1.4035552
+    display: Journal of Energy Resources Technology, 139
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin" 
+  title: "An Embedded Method for Near-Wellbore Streamline Simulation" 
+  journal: "Preprint" 
+  pubdate:
+    year: 2017
+  vip: "10"
+  doi: 10.2118/182614-pa
+  link:
+    url: http://doi.org/10.2118/182614-pa
+    display: Preprint, 10
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Wang, Bin and Li, Gensheng and Huang, Zhongwei and Zheng, D and Li, K and others" 
+  title: "Lab-Testing and FEM Simulation of Hole Deflector Performance for Radial Jet Drilling" 
+  journal: "J. Energy Resour. Technol." 
+  pubdate:
+    year: 2016
+  vip: "139"
+  doi: 10.1115/1.4035552
+  link:
+    url: http://doi.org/10.1115/1.4035552
+    display: J. Energy Resour. Technol., 139
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Bin, Wang and Gensheng, Li and Zhongwei, Huang and Jingbin, Li and Dongbo, Zheng and Hao, Li" 
+  title: "Hydraulics calculations and field application of radial jet drilling" 
+  journal: "SPE Drilling & Completion" 
+  pubdate:
+    year: 2016
+  vip: "31"
+  doi: 10.2118/179729-pa
+  link:
+    url: http://doi.org/10.2118/179729-pa
+    display: SPE Drilling & Completion, 31
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+
+- authors: "Yang, Ruiyue and Huang, Zhongwei and Li, Gensheng and Shen, Zhonghou and Li, Kui and Chi, Huanpeng and Wang, Bin" 
+  title: "Slotted liner sheathing coiled tubing-a new concept for multilateral jetting in coalbed methane wells and laboratory tests of tubular friction performance" 
+  journal: "Journal of Natural Gas Science and Engineering" 
+  pubdate:
+    year: 2015
+  vip: "26"
+  doi: NA
+  link:
+    url: http://doi.org/NA
+    display: Journal of Natural Gas Science and Engineering, 26
+  image: default.png
+  marked: 0
+  highlight: 0
+  news2:
+

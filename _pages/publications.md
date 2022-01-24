@@ -59,6 +59,7 @@ permalink: /publications/
   <em>{{ publi.authors }}</em><br/>
   <span class="publi_journal">{{ publi.journal }}</span>
   ({{ publi.pubdate.year }}), {{ publi.vip }}<br/>
+  {% if publi.doi %} <a href="http://dx.doi.org/{{ publi.doi }}">[DOI]</a>{% endif %}
 
 {% endfor %}
 

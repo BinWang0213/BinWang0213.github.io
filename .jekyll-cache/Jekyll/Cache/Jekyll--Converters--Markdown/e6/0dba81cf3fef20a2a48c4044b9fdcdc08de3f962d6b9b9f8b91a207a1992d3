@@ -1,0 +1,204 @@
+I"�?<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>The Architecture of SARS-CoV-2 Transcriptome</h4>
+      <p><img src="http://localhost:4000/images/publications/2020-Cell-a.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>SARS-CoV-2 is a betacoronavirus responsible for the COVID-19 pandemic.</p>
+      <p><em>D. Kim, J.-Y. Lee, J.-S. Yang, J. W. Kim, V. N. Kim, and H. Chang</em></p>
+      <h5><a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30406-2">Cell, 181(4):914-921.e10</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>Terminal Uridylyltransferases Execute Programmed Clearance of Maternal Transcriptome in Vertebrate Embryos</h4>
+      <p><img src="http://localhost:4000/images/publications/2018-MolCell-a.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Life starts with the RNAs and proteins derived from its mother in animals. For the first few cell cycles, maternally deposited RNAs are precisely used to produce the right amount of the proteins at the right place. Once the bootstrapping of embryo finishes, the maternal RNAs are replaced by the zygotically transcribed RNAs. In this paper, we surveyed the poly(A) tails during the earliest cell cycles of vertebrate embryos to understand how the transition is accurately controlled. A terminal uridylyltransferase, TUT7, is found to be a driving factor initiating maternal RNA degradation. The preference to short poly(A) tails of TUT7 contributes to the selectivity of the process. This paper demonstrates the unique opportunities of TAIL-seq in the studies of biological phenomena coming from its unprecedented throughput and resolution in contrast to the existing biochemical methods.</p>
+      <p><em>H. Chang<sup>1</sup>, J. Yeo<sup>1</sup>, J.-g. Kim, H. Kim, J. Lim, M. Lee, H. H. Kim, J. Ohk, H.-Y. Jeon, H. Lee, H. Jung, K.-W. Kim, and V. N. Kim</em></p>
+      <h5><a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30185-0">Molecular Cell, 70(1):72–82</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>Uridylation by TUT4 and TUT7 Marks mRNA for Degradation</h4>
+      <p><img src="http://localhost:4000/images/publications/2014-Cell-a.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>During the development of TAIL-seq, we found that the mammalian poly(A) tails often carry additional uridines at the 3′ end. What do those U tails do? We sought the enzymes responsible for the uridylation of poly(A) tails. TUT4 and TUT7 were found to be working for it redundantly. Without U tails, messenger RNAs had significantly longer half-lives. Which step in the mRNA catabolic process does the U tailing kicks in? Through the comparisons of tail profiles in dozens of perturbation conditions, we conclude that it happens after deadenylation and both 5′→3′ and 3′→5′ decay pathways are facilitated by uridylation of poly(A) tails. These discoveries were possible particularly thanks to the ability of TAIL-seq to focus in the oligo(A) tails apart from long poly(A) tails.</p>
+      <p><em>J. Lim<sup>1</sup>, M. Ha<sup>1</sup>, H. Chang<sup>1</sup>, S. C. Kwon, D. K. Simanshu, D. J. Patel, and V. N. Kim</em></p>
+      <h5><a href="https://www.cell.com/abstract/S0092-8674(14)01427-5">Cell, 159(6):1365–1376</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3′ End Modifications</h4>
+      <p><img src="http://localhost:4000/images/publications/2014-MolCell-a.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Eukaryotic messenger RNAs have long tails. They are long homogenous stretches comprised of only adenosine residues. It is widely known that these poly(A) tails protect RNAs from degradation and enhances the translation. Despite the 40 years of researches on the poly(A) tails, it was unclear how different are the poly(A) lengths in different genes and the detailed sequence composition of poly(A) tails. The major obstacle in adopting modern high-throughput techniques for poly(A) analysis was the long homopolymeric sequence. The second-generation sequencers such as Illumina SBS and IonTorrent can’t deal with such long monotonous repeats due to failure of cumulative error estimation (Illumina) or signals exceeding the dynamic range (IonTorrent). To overcome the status, we had a look into the raw images directly from the fluorescence microscope equipped in the Illumina sequencers. We could find a way to recover the poly(A) tail length from the distorted fluorescence signals. Finally, we developed a high-throughput technique profiling poly(A) tail length distributions as well as 3′-end modifications of thousands of mRNAs simultaneously. The software is available from <a href="https://github.com/hyeshik/tailseeker">our GitHub repository</a>.</p>
+      <p><em>H. Chang<sup>1</sup>, J. Lim<sup>1</sup>, M. Ha, and V. N. Kim</em></p>
+      <h5><a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(14)00121-X">Molecular Cell, 53(6):1044–1052</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p><a href="https://www.nature.com/articles/s41587-021-01136-7" class="publi_title">Partitioning RNAs by length improves transcriptome reconstruction from short-read RNA-seq data</a><br />
+  <em>F. R. Ringeling, S. Chakraborty, C. Vissers, D. Reiman, A. M. Patel, K.-H. Lee, A. Hong, C.-W. Park, T. Reska, J. Gagneur, H. Chang, M. Spletter, K.-J. Yoon, G. Ming, H. Song, and S. Canzar</em><br />
+  <span class="publi_journal">Nature Biotechnology</span>
+  (2022), in press<br />
+  <a href="http://dx.doi.org/doi.org/10.1038/s41587-021-01136-7">[DOI]</a></p>
+
+<p><a href="https://www.nature.com/articles/s41594-020-0427-3" class="publi_title">Viral Hijacking of the TENT4–ZCCHC14 Complex Protects Viral RNAs via Mixed Tailing</a><br />
+  <em>D. Kim, Y.-S. Lee, S.-J. Jung, J. Yeo, J. J. Seo, Y.-Y. Lee, J. Lim, H. Chang, J. Song, J. Yang, J.-S. Kim, G. Jung, K. Ahn, and V. N. Kim</em><br />
+  <span class="publi_journal">Nature Structural &amp; Molecular Biology</span>
+  (2020), 27:581–588<br />
+  <a href="http://dx.doi.org/doi.org/10.1038/s41594-020-0427-3">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30406-2" class="publi_title">The Architecture of SARS-CoV-2 Transcriptome</a><br />
+  <em>D. Kim, J.-Y. Lee, J.-S. Yang, J. W. Kim, V. N. Kim, and H. Chang</em><br />
+  <span class="publi_journal">Cell</span>
+  (2020), 181(4):914–921.e10<br />
+  <a href="http://dx.doi.org/10.1016/j.cell.2020.04.011">[DOI]</a></p>
+
+<p><a href="http://www.en-journal.org/journal/view.html?doi=10.5607/en20009" class="publi_title">Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)</a><br />
+  <em>J. Won, S. Lee, M. Park, T. Y. Kim, M. G. Park, B. Y. Choi, D. Kim, H. Chang, V. N. Kim, and C. Justin Lee</em><br />
+  <span class="publi_journal">Experimental Neurobiology</span>
+  (2020), 29(2):107–119<br />
+  <a href="http://dx.doi.org/10.5607/en20009">[DOI]</a></p>
+
+<p><a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1293/5271499" class="publi_title">Bias-Minimized Quantification of MicroRNA Reveals Widespread Alternative Processing and 3′ End Modification</a><br />
+  <em>H. Kim, J. Kim, K. Kim, H. Chang, K. You, and V. N. Kim</em><br />
+  <span class="publi_journal">Nucleic Acids Research</span>
+  (2019), 47(5):2630–2640<br />
+  <a href="http://dx.doi.org/10.1093/nar/gky1293">[DOI]</a></p>
+
+<p><a href="https://science.sciencemag.org/content/361/6403/701" class="publi_title">Mixed Tailing by TENT4A and TENT4B Shields mRNA from Rapid Deadenylation</a><br />
+  <em>J. Lim, D. Kim, Y. Lee, M. Ha, M. Lee, J. Yeo, H. Chang, J. Song, K. Ahn, and V. N. Kim</em><br />
+  <span class="publi_journal">Science</span>
+  (2018), 361(6403):701–704<br />
+  <a href="http://dx.doi.org/10.1126/science.aam5794">[DOI]</a></p>
+
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1097276518303599" class="publi_title">PABP Cooperates with the CCR4-NOT Complex to Promote mRNA Deadenylation and Block Precocious Decay</a><br />
+  <em>H. Yi, J. Park, M. Ha, J. Lim, H. Chang, and V. N. Kim</em><br />
+  <span class="publi_journal">Molecular Cell</span>
+  (2018), 70(6):1081–1088.e5<br />
+  <a href="http://dx.doi.org/10.1016/j.molcel.2018.05.009">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30185-0" class="publi_title">Terminal Uridylyltransferases Execute Programmed Clearance of Maternal Transcriptome in Vertebrate Embryos</a><br />
+  <em>H. Chang<sup>1</sup>, J. Yeo<sup>1</sup>, J.-g. Kim, H. Kim, J. Lim, M. Lee, H. H. Kim, J. Ohk, H.-Y. Jeon, H. Lee, H. Jung, K.-W. Kim, and V. N. Kim</em><br />
+  <span class="publi_journal">Molecular Cell</span>
+  (2018), 70(1):72–82<br />
+  <a href="http://dx.doi.org/10.1016/j.molcel.2018.03.004">[DOI]</a></p>
+
+<p><a href="http://genesdev.cshlp.org/content/30/14/1671.abstract" class="publi_title">mTAIL-seq Reveals Dynamic Poly(A) Tail Regulation in Oocyte-to-Embryo Development</a><br />
+  <em>J. Lim, M. Lee, A. Son, H. Chang, and V. N. Kim</em><br />
+  <span class="publi_journal">Genes &amp; Development</span>
+  (2016), 30:1671–1682<br />
+  <a href="http://dx.doi.org/10.1101/gad.284802.116">[DOI]</a></p>
+
+<p><a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(16)30057-0" class="publi_title">Regulation of Poly(A) Tail and Translation During the Somatic Cell Cycle</a><br />
+  <em>J.-E. Park, H. Yi, Y. Kim, H. Chang, and V. N. Kim</em><br />
+  <span class="publi_journal">Molecular Cell</span>
+  (2016), 62(3):462-471<br />
+  <a href="http://dx.doi.org/10.1016/j.molcel.2016.04.007">[DOI]</a></p>
+
+<p><a href="https://www.pnas.org/content/early/2015/06/09/1508821112.abstract" class="publi_title">Next-Generation Libraries for Robust RNA Interference-Based Genome-Wide Screens</a><br />
+  <em>M. Kampmann, M. A. Horlbeck, Y. Chena, J. C. Tsai, M. C. Bassik, L. A. Gilbert, J. E. Villalta, S. C. Kwon, H. Chang, V. N. Kim, and J. S. Weissman</em><br />
+  <span class="publi_journal">Proceedings of the National Academy of Sciences of the U. S. A.</span>
+  (2015), 112(26):E3384-E3391<br />
+  <a href="http://dx.doi.org/10.1073/pnas.1508821112">[DOI]</a></p>
+
+<p><a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(15)00218-8" class="publi_title">Temporal Landscape of MicroRNA-Mediated Host-Virus Crosstalk during Productive Human Cytomegalovirus Infection</a><br />
+  <em>S. Kim, D. Seo, D. Kim, Y. Hong, H. Chang, D. Baek, V. N. Kim, S. Lee, and K. Ahn</em><br />
+  <span class="publi_journal">Cell Host &amp; Microbe</span>
+  (2015), 17(6):838–851<br />
+  <a href="http://dx.doi.org/10.1016/j.chom.2015.05.014">[DOI]</a></p>
+
+<p><a href="http://emboj.embopress.org/content/34/13/1801.long" class="publi_title">TUT7 Controls the Fate of Precursor MicroRNAs by Using Three Different Uridylation Mechanisms</a><br />
+  <em>B. Kim, M. Ha, L. Loeff, H. Chang, D. K. Simanshu, S. Li, M. Fareh, D. J. Patel, C. Joo, and V. N. Kim</em><br />
+  <span class="publi_journal">EMBO Journal</span>
+  (2015), 35(2):115-236<br />
+  <a href="http://dx.doi.org/">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://bioinformatics.oxfordjournals.org/content/31/4/596" class="publi_title">miRseqViewer: Multi-Panel Visualization of Sequence, Structure and Expression for Analysis of MicroRNA Sequencing Data</a><br />
+  <em>I. Jang<sup>1</sup>, H. Chang<sup>1</sup>, Y. Jun, S. Park, J. O. Yang, B. Lee, W. Kim, V. N. Kim, and S. Lee</em><br />
+  <span class="publi_journal">Bioinformatics</span>
+  (2015), 31(4):596–598<br />
+  <a href="http://dx.doi.org/10.1093/bioinformatics/btu676">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://www.cell.com/abstract/S0092-8674(14)01427-5" class="publi_title">Uridylation by TUT4 and TUT7 Marks mRNA for Degradation</a><br />
+  <em>J. Lim<sup>1</sup>, M. Ha<sup>1</sup>, H. Chang<sup>1</sup>, S. C. Kwon, D. K. Simanshu, D. J. Patel, and V. N. Kim</em><br />
+  <span class="publi_journal">Cell</span>
+  (2014), 159(6):1365–1376<br />
+  <a href="http://dx.doi.org/10.1016/j.cell.2014.10.055">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(14)00121-X" class="publi_title">TAIL-seq: Genome-wide Determination of Poly(A) Tail Length and 3′ End Modifications</a><br />
+  <em>H. Chang<sup>1</sup>, J. Lim<sup>1</sup>, M. Ha, and V. N. Kim</em><br />
+  <span class="publi_journal">Molecular Cell</span>
+  (2014), 53(6):1044–1052<br />
+  <a href="http://dx.doi.org/10.1016/j.molcel.2014.02.007">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-S1-S6" class="publi_title">FitSearch: a Robust Way to Interpret a Yeast Fitness Profile in Terms of Drug’s Mode-of-Action</a><br />
+  <em>M. Lee<sup>1</sup>, S. Han<sup>1</sup>, H. Chang<sup>1</sup>, Y.-S. Kwak, D. M. Weller, and D. Kim</em><br />
+  <span class="publi_journal">BMC Genomics</span>
+  (2014), 14(Suppl 1):S6<br />
+  <a href="http://dx.doi.org/10.1186/1471-2164-14-S1-S6">[DOI]</a></p>
+
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0006291X13009595" class="publi_title">Construction of the First Compendium of Chemical-Genetic Profiles in the Fission Yeast <i>Schizosaccharomyces pombe</i> and Comparative Compendium Approach</a><br />
+  <em>S. Han, M. Lee, H. Chang, M. Nam, H.-O. Park, Y.-S. Kwak, H.-J. Ha, D. Kim, S.-O. Hwang, K.-L. Hoe, and D.-U. Kim</em><br />
+  <span class="publi_journal">Biochemical and Biophysical Research Communications</span>
+  (2013), 436(4):613–618<br />
+  <a href="http://dx.doi.org/10.1016/j.bbrc.2013.05.138">[DOI]</a></p>
+
+<p><a href="https://academic.oup.com/nar/article/41/D1/D252/1066239" class="publi_title">miRGator v3.0: a MicroRNA Portal for Deep Sequencing, Expression Profiling and mRNA Targeting</a><br />
+  <em>S. Cho, I. Jang, Y. Jun, S. Yoon, M. Ko, Y. Kwon, I. Choi, H. Chang, D. Ryu, B. Lee, V. N. Kim, W. Kim, and S. Lee</em><br />
+  <span class="publi_journal">Nucleic Acids Research</span>
+  (2013), 41(D1):D252–D257<br />
+  <a href="http://dx.doi.org/10.1093/nar/gks1168">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="https://www.cell.com/abstract/S0092-8674(12)01234-2" class="publi_title">LIN28A is a Suppressor of ER-associated Translation in Embryonic Stem Cells</a><br />
+  <em>J. Cho<sup>1</sup>, H. Chang<sup>1</sup>, S. C. Kwon, B. Kim, Y. Kim, J. Choe, M. Ha, Y. K. Kim, and V. N. Kim</em><br />
+  <span class="publi_journal">Cell</span>
+  (2012), 151(4):765–777<br />
+  <a href="http://dx.doi.org/10.1016/j.cell.2012.10.019">[DOI]</a></p>
+
+<p><a href="https://www.cell.com/abstract/S0092-8674(12)01129-4" class="publi_title">Mono-Uridylation of Pre-MicroRNA as a Key Step in the Biogenesis of Group II Let-7 MicroRNAs</a><br />
+  <em>I. Heo, M. Ha, J. Lim, M.-J. Yoon, J.-E. Park, S. C. Kwon, H. Chang, and V. N. Kim</em><br />
+  <span class="publi_journal">Cell</span>
+  (2012), 151(3):521–532<br />
+  <a href="http://dx.doi.org/10.1016/j.cell.2012.09.022">[DOI]</a></p>
+
+<p><a href="https://www.nature.com/articles/nature10198" class="publi_title">Dicer recognizes the 5′ end of RNA for efficient and accurate processing</a><br />
+  <em>J.-E. Park, I. Heo, Y. Tian, D. K. Simanshu, H. Chang, D. Jee, D. J. Patel, and V. N. Kim</em><br />
+  <span class="publi_journal">Nature</span>
+  (2011), 475(7355):201-205<br />
+  <a href="http://dx.doi.org/10.1038/nature10198">[DOI]</a></p>
+
+:ET
