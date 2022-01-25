@@ -57,19 +57,6 @@ permalink: /
   </a>
 </div>
 
-
-### Bin Wang, Ph.D.
-#### Assistant Professor
-##### Waterjet Drilling & Completion Lab
-
-#### Education
-
-<ul class="chronological">
-  <li><span>2018–2022</span> Ph.D. Louisiana State University</li>
-  <li><span>2015–2017</span> M.S. University of Louisiana at Lafayette</li>
-  <li><span>2012–2015</span> M.S. China University of Petroleum-Beijing</li>
-</ul>
-
 Dr. Wang’s research focuses on understanding the complex dynamic characteristics of mechanical systems and civil infrastructures exposed to complicated environmental loadings such as winds, storm surge, ocean waves, seismic excitations, impacts, ice loadings and so forth. The research objective is to develop cost-effective, energy-efficient and intelligent solutions to mitigate and diagnose the structural damage caused by environmental effects. His primary research interests include:
 
 * CO2-assistant fracturing and proppant transport

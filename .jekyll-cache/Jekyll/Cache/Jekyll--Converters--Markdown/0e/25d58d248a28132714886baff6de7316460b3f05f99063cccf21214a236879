@@ -1,0 +1,205 @@
+I"3.<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>An GPU-accelerated particle tracking method for Eulerian–Lagrangian simulations using hardware ray tracing cores</h4>
+      <p><img src="http://localhost:4000/images/publications/PtsTrack.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Wang, Bin and Wald, Ingo and Morrical, Nate and Usher, Will and Mu, Lin and Thompson, Karsten and Hughes, Richard</em></p>
+      <h5><a href="http://doi.org/10.1016/j.cpc.2021.108221">Computer Physics Communications, 271</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>Digital quantification of fracture in full-scale rock using micro-CT images: A fracturing experiment with N2 and CO2</h4>
+      <p><img src="http://localhost:4000/images/publications/FracChar.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Yang, Bing and Wang, Haizhu and Wang, Bin and Shen, Zhonghou and Zheng, Yong and Jia, Zhaoyang and Yan, Wanjuan</em></p>
+      <h5><a href="http://doi.org/10.1016/j.petrol.2020.107682">Journal of Petroleum Science and Engineering, 196</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>Advanced modelling with the MATLAB reservoir simulation toolbox</h4>
+      <p><img src="http://localhost:4000/images/publications/mrst.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Olufemi olorode, bin wang, and harun ur rashid <br /> 10 - Numerical Modeling of Fractured Unconventional Oil</p>
+      <p><em>Lie, Knut-Andreas and Moyner, Olav</em></p>
+      <h5><a href="http://doi.org/10.1017/9781009019781">Cambridge University Press, 10</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <h4>Discontinuous Boundary Elements for Fluid Flow Problems in Discrete Fracture Networks</h4>
+      <p><img src="http://localhost:4000/images/publications/DFN.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Wang, Bin and Feng, Yin and Zhou, Xu and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado</em></p>
+      <h5><a href="http://doi.org/NA">Preprints, 10</a></h5>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1016/j.cpc.2021.108221" class="publi_title">An GPU-accelerated particle tracking method for Eulerian–Lagrangian simulations using hardware ray tracing cores</a><br />
+  <em>Wang, Bin and Wald, Ingo and Morrical, Nate and Usher, Will and Mu, Lin and Thompson, Karsten and Hughes, Richard</em><br />
+  <span class="publi_journal">Computer Physics Communications</span>
+  (2022), 271<br />
+   <a href="http://dx.doi.org/10.1016/j.cpc.2021.108221">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1016/j.petrol.2020.107682" class="publi_title">Digital quantification of fracture in full-scale rock using micro-CT images: A fracturing experiment with N2 and CO2</a><br />
+  <em>Yang, Bing and Wang, Haizhu and Wang, Bin and Shen, Zhonghou and Zheng, Yong and Jia, Zhaoyang and Yan, Wanjuan</em><br />
+  <span class="publi_journal">Journal of Petroleum Science and Engineering</span>
+  (2021), 196<br />
+   <a href="http://dx.doi.org/10.1016/j.petrol.2020.107682">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1016/j.jocs.2020.101285" class="publi_title">Accelerating linear solvers for Stokes problems with C++ metaprogramming</a><br />
+  <em>Demidov, Denis and Mu, Lin and Wang, Bin</em><br />
+  <span class="publi_journal">Journal of Computational Science</span>
+  (2021), 49<br />
+   <a href="http://dx.doi.org/10.1016/j.jocs.2020.101285">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.3934/era.2020096" class="publi_title">Viscosity robust weak Galerkin finite element methods for Stokes problems</a><br />
+  <em>Wang, Bin and Mu, Lin</em><br />
+  <span class="publi_journal">Electronic Research Archive</span>
+  (2021), 29<br />
+   <a href="http://dx.doi.org/10.3934/era.2020096">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1016/j.advwatres.2020.103842" class="publi_title">Streamline-based simulation of nanoparticle transport in field-scale heterogeneous subsurface systems</a><br />
+  <em>Wang, Bin and Feng, Yin and Blears, John and Thompson, Karsten and Hughes, Richard</em><br />
+  <span class="publi_journal">Advances in Water Resources</span>
+  (2021), 148<br />
+   <a href="http://dx.doi.org/10.1016/j.advwatres.2020.103842">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.3390/geosciences11020106" class="publi_title">An Open-Source Code for Fluid Flow Simulations in Unconventional Fractured Reservoirs</a><br />
+  <em>Wang, Bin and Fidelibus, Corrado</em><br />
+  <span class="publi_journal">Geosciences</span>
+  (2021), 11<br />
+   <a href="http://dx.doi.org/10.3390/geosciences11020106">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1021/acs.energyfuels.0c03554" class="publi_title">Full-Sample X-ray Microcomputed Tomography Analysis of Supercritical CO2 Fracturing in Tight Sandstone: Effect of Stress on Fracture Dynamics</a><br />
+  <em>Yang, Bing and Wang, Haizhu and Shen, Zhonghou and Olorode, Olufemi and Wang, Bin and Zheng, Yong and Yan, Wanjuan and Jia, Zhaoyang</em><br />
+  <span class="publi_journal">Energy &amp; Fuels</span>
+  (2021), 35<br />
+   <a href="http://dx.doi.org/10.1021/acs.energyfuels.0c03554">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1017/9781009019781" class="publi_title">Advanced modelling with the MATLAB reservoir simulation toolbox</a><br />
+  <em>Lie, Knut-Andreas and Moyner, Olav</em><br />
+  <span class="publi_journal">Cambridge University Press</span>
+  (2021), 10<br />
+   <a href="http://dx.doi.org/10.1017/9781009019781">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1007/s10596-019-09923-7" class="publi_title">Implementation of streamline simulation based on finite element method in FEniCS</a><br />
+  <em>Feng, Yin and Shi, Erxiu and Luo, Yi and Wang, Bin and Zhang, Liehui and Zhao, Yulong</em><br />
+  <span class="publi_journal">Computational Geosciences</span>
+  (2020), 24<br />
+   <a href="http://dx.doi.org/10.1007/s10596-019-09923-7">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1016/j.jngse.2020.103515" class="publi_title">Numerical simulation of channel fracturing technology in developing shale gas reservoirs</a><br />
+  <em>Ning, Xuewei and Feng, Yin and Wang, Bin</em><br />
+  <span class="publi_journal">Journal of Natural Gas Science and Engineering</span>
+  (2020), 83<br />
+   <a href="http://dx.doi.org/10.1016/j.jngse.2020.103515">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.2118/201243-PA" class="publi_title">Three-Dimensional Projection-Based Embedded Discrete-Fracture Model for Compositional Simulation of Fractured Reservoirs</a><br />
+  <em>Olorode, Olufemi and Wang, Bin and Rashid, Harun Ur</em><br />
+  <span class="publi_journal">SPE Journal</span>
+  (2020), 25<br />
+   <a href="http://dx.doi.org/10.2118/201243-PA">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/NA" class="publi_title">MRST-Shale: An Open-Source Framework for Generic Numerical Modeling of Unconventional Shale and Tight Gas Reservoirs</a><br />
+  <em>Wang, Bin</em><br />
+  <span class="publi_journal">Preprints</span>
+  (2020), 10<br />
+   <a href="http://dx.doi.org/NA">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1002/nme.5943" class="publi_title">Iterative coupling algorithms for large multidomain problems with the boundary element method</a><br />
+  <em>Wang, Bin and Feng, Yin and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado</em><br />
+  <span class="publi_journal">International Journal for Numerical Methods in Engineering</span>
+  (2019), 117<br />
+   <a href="http://dx.doi.org/10.1002/nme.5943">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/NA" class="publi_title">Discontinuous Boundary Elements for Fluid Flow Problems in Discrete Fracture Networks</a><br />
+  <em>Wang, Bin and Feng, Yin and Zhou, Xu and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado</em><br />
+  <span class="publi_journal">Preprints</span>
+  (2019), 10<br />
+   <a href="http://dx.doi.org/NA">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.2118/182614-pa" class="publi_title">An embedded grid-free approach for near-wellbore streamline simulation</a><br />
+  <em>Wang, Bin and Feng, Yin and Du, Juan and Wang, Yihui and Wang, Sijie and Yang, Ruiyue</em><br />
+  <span class="publi_journal">SPE Journal</span>
+  (2018), 23<br />
+   <a href="http://dx.doi.org/10.2118/182614-pa">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1115/1.4035552" class="publi_title">Lab testing and finite element method simulation of hole deflector performance for radial jet drilling</a><br />
+  <em>Wang, Bin and Li, Gensheng and Huang, Zhongwei and Ma, Tianqi and Zheng, Dongbo and Li, Kui</em><br />
+  <span class="publi_journal">Journal of Energy Resources Technology</span>
+  (2017), 139<br />
+   <a href="http://dx.doi.org/10.1115/1.4035552">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.2118/182614-pa" class="publi_title">An Embedded Method for Near-Wellbore Streamline Simulation</a><br />
+  <em>Wang, Bin</em><br />
+  <span class="publi_journal">Preprint</span>
+  (2017), 10<br />
+   <a href="http://dx.doi.org/10.2118/182614-pa">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.1115/1.4035552" class="publi_title">Lab-Testing and FEM Simulation of Hole Deflector Performance for Radial Jet Drilling</a><br />
+  <em>Wang, Bin and Li, Gensheng and Huang, Zhongwei and Zheng, D and Li, K and others</em><br />
+  <span class="publi_journal">J. Energy Resour. Technol.</span>
+  (2016), 139<br />
+   <a href="http://dx.doi.org/10.1115/1.4035552">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/10.2118/179729-pa" class="publi_title">Hydraulics calculations and field application of radial jet drilling</a><br />
+  <em>Bin, Wang and Gensheng, Li and Zhongwei, Huang and Jingbin, Li and Dongbo, Zheng and Hao, Li</em><br />
+  <span class="publi_journal">SPE Drilling &amp; Completion</span>
+  (2016), 31<br />
+   <a href="http://dx.doi.org/10.2118/179729-pa">[DOI]</a></p>
+
+<p><span style="color: crimson">‣</span>
+  <a href="http://doi.org/NA" class="publi_title">Slotted liner sheathing coiled tubing-a new concept for multilateral jetting in coalbed methane wells and laboratory tests of tubular friction performance</a><br />
+  <em>Yang, Ruiyue and Huang, Zhongwei and Li, Gensheng and Shen, Zhonghou and Li, Kui and Chi, Huanpeng and Wang, Bin</em><br />
+  <span class="publi_journal">Journal of Natural Gas Science and Engineering</span>
+  (2015), 26<br />
+   <a href="http://dx.doi.org/NA">[DOI]</a></p>
+
+:ET

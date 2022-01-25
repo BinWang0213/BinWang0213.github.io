@@ -8,7 +8,8 @@
   link:
     url: http://doi.org/10.1016/j.cpc.2021.108221
     display: Computer Physics Communications, 271
-  image: default.png
+  image: PtsTrack.png
+  code: https://github.com/BinWang0213/RTXAdvect
   marked: 0
   highlight: 1
   news2:
@@ -23,7 +24,7 @@
   link:
     url: http://doi.org/10.1016/j.petrol.2020.107682
     display: Journal of Petroleum Science and Engineering, 196
-  image: default.png
+  image: FracChar.png
   marked: 0
   highlight: 1
   news2:
@@ -39,6 +40,7 @@
     url: http://doi.org/10.1016/j.jocs.2020.101285
     display: Journal of Computational Science, 49
   image: default.png
+  code: https://github.com/ddemidov/cppstokes_benchmarks
   marked: 0
   highlight: 0
   news2:
@@ -106,6 +108,7 @@
 - authors: "Lie, Knut-Andreas and Moyner, Olav" 
   title: "Advanced modelling with the MATLAB reservoir simulation toolbox" 
   journal: "Cambridge University Press" 
+  description: Olufemi Olorode, Bin Wang, and Harun Rashid <br> Chapter10 - Numerical Modeling of Fractured Unconventional Oil
   pubdate:
     year: 2021
   vip: "10"
@@ -113,7 +116,8 @@
   link:
     url: http://doi.org/10.1017/9781009019781
     display: Cambridge University Press, 10
-  image: default.png
+  image: mrst.jpg
+  code: https://github.com/UnconvRS/shale/tree/main
   marked: 0
   highlight: 1
   news2:
@@ -159,8 +163,9 @@
     url: http://doi.org/10.2118/201243-PA
     display: SPE Journal, 25
   image: default.png
+  code: https://github.com/UnconvRS/shale/tree/main
   marked: 0
-  highlight: 1
+  highlight: 0
   news2:
 
 - authors: "Wang, Bin" 
@@ -174,6 +179,7 @@
     url: http://doi.org/NA
     display: Preprints, 10
   image: default.png
+  code: https://github.com/BinWang0213/MRST_Shale
   marked: 0
   highlight: 0
   news2:
@@ -189,23 +195,25 @@
     url: http://doi.org/10.1002/nme.5943
     display: International Journal for Numerical Methods in Engineering, 117
   image: default.png
+  code: https://github.com/BinWang0213/PyBEM2D
   marked: 0
   highlight: 0
   news2:
 
 - authors: "Wang, Bin and Feng, Yin and Zhou, Xu and Pieraccini, Sandra and Scialo, Stefano and Fidelibus, Corrado" 
   title: "Discontinuous Boundary Elements for Fluid Flow Problems in Discrete Fracture Networks" 
-  journal: "Preprints" 
+  journal: "Advanced in Water Resources" 
   pubdate:
     year: 2019
   vip: "10"
   doi: NA
   link:
     url: http://doi.org/NA
-    display: Preprints, 10
-  image: default.png
+    display: Advanced in Water Resources, In press
+  image: DFN.png
+  code: https://github.com/BinWang0213/PyDFN3D
   marked: 0
-  highlight: 0
+  highlight: 1
   news2:
 
 - authors: "Wang, Bin and Feng, Yin and Du, Juan and Wang, Yihui and Wang, Sijie and Yang, Ruiyue" 
@@ -219,6 +227,7 @@
     url: http://doi.org/10.2118/182614-pa
     display: SPE Journal, 23
   image: default.png
+  code: https://github.com/BinWang0213/Nearwellbore_Streamline
   marked: 0
   highlight: 0
   news2:
