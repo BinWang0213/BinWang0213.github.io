@@ -1,6 +1,18 @@
-- name: Hyeshik Chang
+- name: Bin Wang
   photo: hschang-thumb.jpg
   info: Principal Investigator
   email: hyeshik@snu.ac.kr
   intro: A computational biologist loving molecules and numbers
   link: hyeshik-chang
+  github: https://github.com/sbryngelson
+  researchgate: https://www.researchgate.net/profile/Spencer_Bryngelson
+  scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
+  cv: cv/cv.pdf
+  number_educ: 3
+  education1: 2018–2022 Ph.D. Louisiana State University
+  education2: 2015–2017 M.S. University of Louisiana at Lafayette
+  education3: 2012–2015 M.S. China University of Petroleum-Beijing
+  education1short: 2018–2022 Ph.D. LSU 
+  education2short: 2015–2017 M.S. ULL
+  education3short: 2012–2015 M.S. CUPB
+

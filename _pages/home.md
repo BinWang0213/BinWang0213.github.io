@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -58,17 +57,28 @@ permalink: /
   </a>
 </div>
 
-Currently, we are focused on developing high-throughput experimental
-methods and analytic tools for a deeper understanding of the quantitative
-nature of post-transcriptional gene regulation. For example, our new
-tool, [poreplex](https://github.com/hyeshik/poreplex), based on nanopore
-direct RNA sequencing enables real-time direct measurement of poly(A)
-tail lengths with the complete information about the alternative splicing
-and alternative polyadenylation in biologically perturbed conditions
-(see [Research](research)). Our new technologies are expected to reveal
-the novel molecular phenomena that had been vastly undetectable using
-the existing techniques.
+
+### Bin Wang, Ph.D.
+#### Assistant Professor
+##### Waterjet Drilling & Completion Lab
+
+#### Education
+
+<ul class="chronological">
+  <li><span>2018–2022</span> Ph.D. Louisiana State University</li>
+  <li><span>2015–2017</span> M.S. University of Louisiana at Lafayette</li>
+  <li><span>2012–2015</span> M.S. China University of Petroleum-Beijing</li>
+</ul>
+
+Dr. Wang’s research focuses on understanding the complex dynamic characteristics of mechanical systems and civil infrastructures exposed to complicated environmental loadings such as winds, storm surge, ocean waves, seismic excitations, impacts, ice loadings and so forth. The research objective is to develop cost-effective, energy-efficient and intelligent solutions to mitigate and diagnose the structural damage caused by environmental effects. His primary research interests include:
+
+* CO2-assistant fracturing and proppant transport
+* Multi-scale particle transport modeling and simulation
+* Flow and mass transport in fractured unconventional resources
+* Image‐based porous media and fracture characterization
 
 We are looking for new <!--graduate students and -->postdocs to enjoy our explorations together [(more info)]({{ site.url }}{{ site.baseurl }}/openings)**!**
 
 Our group is currently based on fundings from [Center for RNA Research](https://narrykim.org) in [Institute for Basic Science (IBS)](http://www.ibs.re.kr) and [Research Institute of Basic Sciences (RIBS)](http://ribs.snu.ac.kr/) of [Seoul National University](http://www.snu.ac.kr).
+
+

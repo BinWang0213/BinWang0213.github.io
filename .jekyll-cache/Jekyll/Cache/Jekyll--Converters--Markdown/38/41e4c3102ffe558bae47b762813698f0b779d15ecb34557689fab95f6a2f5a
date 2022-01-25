@@ -1,0 +1,162 @@
+I"�<h2 id="group-members">Group Members</h2>
+
+<h3 id="principal-investigator">Principal Investigator</h3>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="hyeshik-chang">
+    <p><img src="http://localhost:4000/images/members/hschang-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="hyeshik-chang" class="member-link">Bin Wang</a></h4>
+
+    <p><i>Principal Investigator</i></p>
+
+    <p class="member-intro">A computational biologist loving molecules and numbers</p>
+
+    <p></p>
+  </div>
+
+</div>
+
+<h3 id="graduate-students">Graduate Students</h3>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="ari-hong">
+    <p><img src="http://localhost:4000/images/members/arihong-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="ari-hong" class="member-link">Ari Hong</a></h4>
+
+    <p><i>Graduate Student (Bioinformatics)</i></p>
+
+    <p class="member-intro">Decoding the codes controlling translation</p>
+
+    <p></p>
+  </div>
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="yoojung-han">
+    <p><img src="http://localhost:4000/images/members/yjhan-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="yoojung-han" class="member-link">Yoojung Han</a></h4>
+
+    <p><i>Graduate Student (Bioinformatics)</i></p>
+
+    <p class="member-intro">Developing a new nanopore sequencing technique for single-cell RNA sequencing.</p>
+
+    <p></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="hanju-lee">
+    <p><img src="http://localhost:4000/images/members/hjlee-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="hanju-lee" class="member-link">Hanju Lee</a></h4>
+
+    <p><i>Graduate Student (Bioinformatics)</i></p>
+
+    <p class="member-intro">Finding a better way to measure poly(A) lengths</p>
+
+    <p></p>
+  </div>
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="junsoo-kim">
+    <p><img src="http://localhost:4000/images/members/jskim-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="junsoo-kim" class="member-link">Junsoo Kim</a></h4>
+
+    <p><i>Graduate Student (Bioinformatics)</i></p>
+
+    <p class="member-intro">Deciphering the architecture of infectious diseases by combining insights from high-throughput <i>omics</i> technologies</p>
+
+    <p></p>
+  </div>
+
+</div>
+
+<h3 id="staff">Staff</h3>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="keewon-sung">
+    <p><img src="http://localhost:4000/images/members/kwsung-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="keewon-sung" class="member-link">Keewon Sung</a></h4>
+
+    <p><i>Postdoctoral Fellow</i></p>
+
+    <p class="member-intro">Inventing a breakthrough technique for nanopore RNA sequencing</p>
+
+    <p></p>
+  </div>
+
+  <div class="col-sm-6 clearfix member-list-item" data-href="hyemyung-lee">
+    <p><img src="http://localhost:4000/images/members/hmlee-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4><a href="hyemyung-lee" class="member-link">Hyemyung Lee</a></h4>
+
+    <p><i>Administrative Specialist</i></p>
+
+    <p></p>
+  </div>
+
+</div>
+
+<h3 id="undergraduate-students">Undergraduate Students</h3>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix member-list-item">
+    <p><img src="http://localhost:4000/images/members/jyku-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4>Jayoung Ku</h4>
+
+    <p><i>Undergrad Intern</i></p>
+
+    <p class="member-intro">Looking into the evolution of SARS-CoV-2 transcriptome</p>
+
+    <p></p>
+  </div>
+
+  <div class="col-sm-6 clearfix member-list-item">
+    <p><img src="http://localhost:4000/images/members/shlee-thumb.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4>Sanghyo Lee</h4>
+
+    <p><i>Undergrad Intern</i></p>
+
+    <p class="member-intro">Completing the tutorial quest</p>
+
+    <p></p>
+  </div>
+
+</div>
+
+<p><br /></p>
+
+<div id="alumni">
+  <h2 id="alumni">Alumni</h2>
+
+  <h3 id="undergraduate-internship">Undergraduate Internship</h3>
+
+  <h4 id="section">2021</h4>
+  <p>Chang Yong Mun <small>(University of Illinois at Urbana-Champaign)</small><br />Heeseung Yoo <small>(Sookmyung Women’s University)</small><br />Hyeon Hwang <small>(Sogang University)</small><br />Eunice Seungyeon Song <small>(SNU)</small><br />Seungbeom Han <small>(KAIST)</small><br />Jihyeon Park <small>(SNU)</small><br />Jung Hyun Na <small>(SNU)</small><br />Yunji Hong <small>(Purdue University)</small><br /></p>
+  <h4 id="section-1">2020</h4>
+  <p>Hoyeon Chang <small>(SNU; –2021)</small><br />Hyeonseo Choi <small>(Korea University; –2021)</small><br />Nayeon Kim <small>(SNU; –2021)</small><br />Eun Hwa Jo <small>(Handong University)</small><br />Jimin Lee <small>(SNU)</small><br />Yoojung Han <small>(SNU)</small><br />Dongjoo Lee <small>(SNU)</small><br /></p>
+  <h4 id="section-2">2019</h4>
+  <p>Kwangmin Ryu <small>(SNU; –2020)</small><br />Sujin Hur <small>(Yonsei University; –2020)</small><br />Ju Hyung Lee <small>(Ghent University)</small><br />Hanju Lee <small>(SNU; –2021)</small><br />Ari Hong <small>(SNU; –2020)</small><br /></p>
+</div>
+
+<script>
+$('body').on('click', '.member-list-item[data-href]', function(){
+    if (window.location.hash) {
+        window.location.hash = $(this).data('href');
+    } else {
+        window.location.href = $(this).data('href');
+    }
+})
+</script>
+
+:ET
